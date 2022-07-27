@@ -21,6 +21,7 @@
 #### 1. PT JAYGEE ENTERPRISE](https://www.jaygeegroup.com) | Project Controller | Jakarta `Dec'2020 - Now`
    - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
    - Responsible to improve and realize project delivery as timeline
+   - Fullstack Developer
 
 ---
 
