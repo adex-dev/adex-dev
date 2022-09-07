@@ -10,7 +10,7 @@
 
 ## Education:
 
-#### 1. [Universitas Indonesia Membangun (INABA Jakarta) ] |  Jakarta `2018- Now`
+#### 1. [Universitas Indonesia Membangun (INABA Jakarta) ] |  Jakarta `2018-2022`
    - MAJOR OF SCIENCE INFORMATION TECHNOLOGY
  #### 2. [SMK Islam Al-Muammilin Indramayu | Jawa Barat `2011-2014`
    - Technic Computer And Network
