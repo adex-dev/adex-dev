@@ -27,11 +27,12 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="30px" src="https://blog.akmadnudin.com/src/mysql.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://blog.akmadnudin.com/src/Microsoft_Office_Excel.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="PHP Native" width="30px" src="https://blog.akmadnudin.com/src/php.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Codeigniter" width="30px" src="https://blog.akmadnudin.com/src/CI.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Javascript" width="30px" src="https://blog.akmadnudin.com/src/JavaScript.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MySQL" width="30px" src="https://portal7.isoide.co.id/assets/SynologyDrive/images/adex/mysql.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Golang" width="30px" src="https://portal7.isoide.co.id/assets/SynologyDrive/images/adex/go.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Docker" width="30px" src="https://portal7.isoide.co.id/assets/SynologyDrive/images/adex/docker.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="PHP Native" width="30px" src="https://portal7.isoide.co.id/assets/SynologyDrive/images/adex/php.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Codeigniter" width="30px" src="https://portal7.isoide.co.id/assets/SynologyDrive/images/adex/codeigniter.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="React" width="30px" src="https://portal7.isoide.co.id/assets/SynologyDrive/images/adex/react.png" style="padding-right:10px;" />][webdev]
 <br />
 <br />
 
