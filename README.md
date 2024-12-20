@@ -1,7 +1,7 @@
 # Hi there, I'm Akmad Nudin - [@akmadnudin_inc](https://instagram.com/akmadnudin_inc) 👋
 ## About me:
-- 🔭 I’m currently working at [PT JAYGEE ENTERPRISE](https://www.jaygeegroup.com)
-- 🌱 I’m currently learning PHP and Javascript
+- 🔭 I’m currently working at [PT SANGGAR CATUR UTAMA](https://www.jaygeegroup.com)
+- 🌱 I’m currently learning PHP (Codeigniter 3 and 4), Javascript (jQuery,react),And Python (Flask for Backend)
 - 👯 I’m looking to collaborate as Data Analyst
 - 🤔 I’m looking for suggest for Automation and Data Analyst
 - 💬 Ask me about anything
@@ -12,6 +12,7 @@
 
 #### 1. [Universitas Indonesia Membangun (INABA Jakarta) ] |  Jakarta `2018-2022`
    - MAJOR OF SCIENCE INFORMATION TECHNOLOGY
+   - GPA 3.42 | 148 Credit
  #### 2. [SMK Islam Al-Muammilin Indramayu | Jawa Barat `2011-2014`
    - Technic Computer And Network
  #### 3. [SMP NU Kaplongan, Indramayu| Jawa Barat `2008-2011`
