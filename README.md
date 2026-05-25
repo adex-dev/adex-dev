@@ -1,4 +1,5 @@
 # Akmad Nudin
+![logo](./gue.png)
 
 ## A bit about me
 
@@ -57,4 +58,4 @@ I'm also actively deepening my knowledge of Rust and modern backend ecosystems.
 ### The vibe
 
 relax, write some code, be a tea drinking canadian nerd, and enjoy life 🍵
-![Rust icon](./rust.png)
+[<img src="rust.png" width="250"/>](rust.png)
