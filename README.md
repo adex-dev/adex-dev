@@ -1,57 +1,60 @@
-# Hi there, I'm Akmad Nudin - [@akmadnudin_inc](https://instagram.com/akmadnudin_inc) 👋
-## About me:
-- 🔭 I’m currently working at [PT SANGGAR CATUR UTAMA](https://www.jaygeegroup.com)
-- 🌱 I’m currently learning PHP (Codeigniter 3 and 4), Javascript (jQuery,react),And Python (Flask for Backend)
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
-- 💬 Ask me about anything
-- 💬 Call me Adex
-- 📫 How to reach me: akmadnudin.inc@gmail.com
+# Akmad Nudin
 
-## Education:
+## A bit about me
 
-#### 1. [Universitas Indonesia Membangun (INABA Jakarta) ] |  Jakarta `2018-2022`
-   - MAJOR OF SCIENCE INFORMATION TECHNOLOGY
-   - GPA 3.42 | 148 Credit
- #### 2. [SMK Islam Al-Muammilin Indramayu | Jawa Barat `2011-2014`
-   - Technic Computer And Network
- #### 3. [SMP NU Kaplongan, Indramayu| Jawa Barat `2008-2011`
-   - Junior High School
+Hey! I'm Akmad Nudin, a Fullstack Engineer from Indonesia focused on building scalable backend systems and automation tools. I enjoy working across the stack, from frontend interfaces to infrastructure and distributed systems.
 
-## Work Experience:
-#### 1. PT JAYGEE ENTERPRISE](https://www.jaygeegroup.com) | Project Controller | Jakarta `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Fullstack Developer
+I spend most of my time building web applications, backend services, and developer-focused tooling while continuously exploring efficient system architecture and performance-oriented development.
 
 ---
 
-### Languages and Tools:
+## What I'm building
 
-[<img align="left" alt="MySQL" width="30px" src="https://portal7.isoide.co.id/assets/SynologyDrive/images/adex/mysql.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Golang" width="30px" src="https://portal7.isoide.co.id/assets/SynologyDrive/images/adex/go.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Docker" width="30px" src="https://portal7.isoide.co.id/assets/SynologyDrive/images/adex/docker.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="PHP Native" width="30px" src="https://portal7.isoide.co.id/assets/SynologyDrive/images/adex/php.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Codeigniter" width="30px" src="https://portal7.isoide.co.id/assets/SynologyDrive/images/adex/codeigniter.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="React" width="30px" src="https://portal7.isoide.co.id/assets/SynologyDrive/images/adex/react.png" style="padding-right:10px;" />][webdev]
-<br />
-<br />
+I'm currently focused on backend engineering, infrastructure scalability, and automation workflows. Most of my recent work revolves around designing reliable systems, improving developer experience, and experimenting with distributed architectures.
+
+I'm also actively deepening my knowledge of Rust and modern backend ecosystems.
 
 ---
-### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/c/akmadnudininc#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/c/akmadnudininc#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/akmadnudin#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/akmadnudin#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/akmadnudin_inc#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/akmadnudin_inc#gh-dark-mode-only)
+## Tech Stack
 
+### Frontend
+- React
+- TailwindCSS
 
+### Backend
+- Go
+- Rust (Axum)
+- PHP (CodeIgniter & Native PHP)
+- Flask
 
-[webdev]: https://github.com/adex-dev/akmadnudin
+### Mobile
+- Android (Jetpack Compose)
+- Flutter
+
+### Infrastructure & Database
+- Docker
+- Linux
+- PostgreSQL
+- MySQL
+
+### Tools
+- Git
+- Zsh
+
+---
+
+## Current Focus
+
+- Backend Systems
+- Automation
+- Scalable Infrastructure
+- Distributed Systems
+- Rust Ecosystem
+
+---
+
+### The vibe
+
+relax, write some code, be a tea drinking canadian nerd, and enjoy life 🍵
+![Rust icon](./rust.png)
